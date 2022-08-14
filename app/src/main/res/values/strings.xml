@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">TravelWriter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bodyHint">Body</string>
+    <string name="titleHint">Title</string>
+    <string name="drafts">Drafts</string>
+    <string name="details">Details</string>
+    <string name="about">About</string>
+    <string name="create_post">Create Post</string>
+    <string name="save_as_draft">save as draft</string>
+    <string name="intro_string">Welcome to TravelWriter!\nPlease enter your name:</string>
+    <string name="proceed">Proceed</string>
 </resources>
